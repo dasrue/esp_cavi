@@ -18,6 +18,7 @@ The RFM69 module is connected to the ESP32's hardware HSPI as follows:
 | GPIO16 | NSS |
 | GND | GND |
 | 3V3 | 3.3V |
+
 You will also need to solder on an antenna
 ## Software
 In order to compile and upload the code, you will need the following
