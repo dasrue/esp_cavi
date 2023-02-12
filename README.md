@@ -20,6 +20,7 @@ The RFM69 module is connected to the ESP32's hardware HSPI as follows:
 | 3V3 | 3.3V |
 
 You will also need to solder on an antenna
+![Example Photo](https://raw.githubusercontent.com/dasrue/esp_cavi/main/esp_cavi.jpg)
 ## Software
 In order to compile and upload the code, you will need the following
 
